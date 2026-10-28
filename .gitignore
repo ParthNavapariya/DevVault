@@ -1,0 +1,23 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+venv/
+.venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Django
+staticfiles/
+media/
+
+# Frontend dependencies
+node_modules/
+dist/
+build/
+
+# macOS
+.DS_Store
